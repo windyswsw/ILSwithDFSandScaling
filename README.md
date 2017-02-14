@@ -14,10 +14,10 @@ This repository contains programs for the ILS based resource allocation algorith
 
 ## Guidelines to use the data and programs in the repository:
 
-There are two ways that this repository can be useful for anyone looking for respurce allocation approaches for VNFs.
+There are two ways that this repository can be useful for anyone looking for resource allocation approaches for VNFs.
 
-1.Directly use the programs with already generated data set (in inputs folder) by running the source file
+1. Directly use the programs with already generated data set (in inputs folder) by running the source file
 
-2.Use the programs with your own data sets (We have a data set generation repository at https://github.com/windyswsw/DataForNFVSDNExperiments)
+2. Use the programs with your own data sets (We have a data set generation repository at https://github.com/windyswsw/DataForNFVSDNExperiments)
 
 
